@@ -1,0 +1,2 @@
+Xilinx P4-SDNet
+赛灵思P4-SDNet编译器是P4-> NetFPGA工作流程的核心。 它将面向SimpleSumeSwitch体系结构的P4程序编译成一个具有标准AXI-Stream数据包接口和AXI-Lite控制接口的HDL模块。 SDNet输出设计为100G速率，因此能够轻松处理SUME参考开关设计中的总计40G速率
